@@ -1,23 +1,25 @@
-# GUILDA (Grid & Utility Infrastructure Linkage Dynamics Analyzer)
-
+# GUILDA: Grid & Utility Infrastructure Linkage Dynamics Analyzer
+## About
 GUILDAは
 - 制御工学者から見て理解しやすく，使いやすい
 - 電力システムや他分野の研究者の知見を融合しやすい
 
 という特徴をもつことを目指した電力システムのシミュレータです．
 
-# Requirement
-- MATLAB 2021
+## Requirement
+- MATLAB
 - Control system toolbox
 - Optimization toolbox
 
-# Usage
+## Usage
 [チュートリアル](https://lim.ishizaki-lab.jp/guilda)をご覧ください．
 
-# Reference
++Book_examplesディレクトリ以下には書籍の数値例を再現するコードがありますので，そちらも参照してください．
+
+## Reference
 Coming soon: 制御工学の立場から見た電力システム工学の書籍を執筆中
 
-# Author
+## Author
 - [川口貴弘（群馬大学）](http://hashi-lab.ei.st.gunma-u.ac.jp/~hashimotos/member/kawaguchi/)
 - [石崎孝幸（東京工業大学）](https://lim.ishizaki-lab.jp)
 
